@@ -95,5 +95,5 @@ jobs:
       uses: actions/upload-artifact@v4
       with:
           name: CLS-App
-          path: app/build/outputs/apk/**/*.apk
+          path: V2rayNG/app/build/outputs/apk/**/*.apk
     
